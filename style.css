@@ -1,0 +1,12 @@
+/* Add your CSS styles here */
+#trajectory-chart {
+  width: 80%;
+  height: 300px;
+  margin: 20px auto;
+  border: 1px solid #ccc;
+}
+
+#efficiency, #emissions {
+  margin: 20px auto;
+  text-align: center;
+}
